@@ -8,10 +8,15 @@ https://www.biorxiv.org/content/10.1101/2021.06.06.447189v1
 
 ***Content***
 > Repo contains analysis scripts for ATAC-seq, RNA-seq and scRNA-seq.
+> 
 > Follow numeric ordering
+> 
 > Pre-processed data can be obtained from GSE172526
+> 
 > Scripts are to be run according to numerics indicated
+> 
 > Iput and output files are specified
+> 
 > Code is linear
 
 
