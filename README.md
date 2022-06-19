@@ -1,22 +1,20 @@
 # LymphNode_StromaCell_Ontogeny
 
 ***Scope***
-> Analysis scripts for the manuscript
+> - Analysis scripts for the manuscript
 https://www.biorxiv.org/content/10.1101/2021.06.06.447189v1
 > for data deposited at GEO GSE172526
 
 
 ***Content***
-> Repo contains analysis scripts for ATAC-seq, RNA-seq and scRNA-seq.
+> - Repository contains analysis scripts for ATAC-seq, RNA-seq and scRNA-seq.
 > 
-> Follow numeric ordering
+> - When implementing adhere numeric ordering
 > 
-> Pre-processed data can be obtained from GSE172526
+> - Pre-processed data such as count matrices of the scRNA-seq can be obtained from GSE172526
 > 
-> Scripts are to be run according to numerics indicated
+> - Input and output files are specified in the resective scripts
 > 
-> Iput and output files are specified
-> 
-> Code is linear
+> - Code is linear
 
 
