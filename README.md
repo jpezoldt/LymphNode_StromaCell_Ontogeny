@@ -2,6 +2,7 @@
 
 ***Scope***
 > - Analysis scripts for the manuscript
+https://www.nature.com/articles/s41467-022-34868-4
 https://www.biorxiv.org/content/10.1101/2021.06.06.447189v1
 > for data deposited at GEO GSE172526
 
